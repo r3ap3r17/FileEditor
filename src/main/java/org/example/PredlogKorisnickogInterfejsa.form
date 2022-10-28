@@ -53,7 +53,7 @@
                   <text value="Save New"/>
                 </properties>
               </component>
-              <component id="5209f" class="javax.swing.JButton" binding="buttonOpen">
+              <component id="5209f" class="javax.swing.JButton" binding="buttonOpenTop">
                 <constraints>
                   <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
                 </constraints>
@@ -61,7 +61,7 @@
                   <text value="Open Top"/>
                 </properties>
               </component>
-              <component id="b9114" class="javax.swing.JButton">
+              <component id="b9114" class="javax.swing.JButton" binding="buttonOpenBot">
                 <constraints>
                   <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
                 </constraints>
@@ -105,7 +105,7 @@
                   </component>
                 </children>
               </scrollpane>
-              <component id="dfd20" class="javax.swing.JButton" binding="buttonGetSelection">
+              <component id="dfd20" class="javax.swing.JButton" binding="buttonGetSelectionTop">
                 <constraints>
                   <grid row="0" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
                 </constraints>
@@ -114,7 +114,7 @@
                   <text value="Top -&gt; New"/>
                 </properties>
               </component>
-              <component id="2978b" class="javax.swing.JButton">
+              <component id="2978b" class="javax.swing.JButton" binding="buttonGetSelectionBot">
                 <constraints>
                   <grid row="1" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
                 </constraints>
