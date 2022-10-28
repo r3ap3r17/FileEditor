@@ -14,7 +14,8 @@ public class PredlogKorisnickogInterfejsa extends JDialog {
     private JPanel contentPane;
     private JButton buttonClose;
     private JButton buttonSave;
-    private JButton buttonOpen;
+    private JButton buttonOpenTop;
+    private JButton buttonOpenBot;
 
     private JButton buttonGetSelectionTop;
 
